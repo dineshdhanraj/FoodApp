@@ -1,11 +1,5 @@
-# Sample Snack app
+# FoodAppUI
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by clicking the **Run** button or use the simulator by clicking **Tap to Play**. When you're done, click **Save** and share the link!
+This repository contains a fully functional pizza ordering application with two screens, complete with navigation and flatlist components. 
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Export** your project and use it with [expo-cli](https://docs.expo.io/versions/latest/introduction/installation.html).
-
-Projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the **Embed** button.
-
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.io).
-
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack-web).
+The application allows users to select their desired pizza and place an order. The UI is presented in an organized and visually appealing manner, with both vertical and horizontal flatlist views included. Overall, this repository represents a comprehensive and polished example of React Native development.
